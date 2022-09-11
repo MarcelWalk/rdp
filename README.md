@@ -1,0 +1,3 @@
+## Requirements
+- gcc
+- xfreerdp
